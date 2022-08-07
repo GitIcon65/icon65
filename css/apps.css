@@ -141,9 +141,7 @@
 }
 .close:hover {background: #e6e6ff;}
 
-.bot div { width:130px; display:inline-block; }
-
-.url_shorter div { width:130px; display:inline-block; }
+.line div { width:130px; display:inline-block; }
 
 .invite_bot {
 	background-color: #4CAF50;
